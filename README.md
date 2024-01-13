@@ -8,7 +8,7 @@ reviews are anything to go by, has stopped honouring the old paid "Rocket Unlock
 demands an in-app subscription for the cheap price of 19.99 € per month, or something like that.
 
 It so happens that one of the last versions of Rocket Player that was presumably built by the original
-developer before the sale (5.18.60) has an expiration date on January 4, 2024, which, as somebody
+developer before the sale (5.18.60) has an expiration date of January 4, 2024, which, as somebody
 who paid for the original "Rocket Unlocker" I find rather annoying, to say the least.
 
 This Xposed module disables that dialog again, allowing you to use old versions of Rocket Player in
