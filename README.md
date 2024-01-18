@@ -1,7 +1,7 @@
 # Rocket Player Timebomb Defuser
-For unfathomable and annoying reasons, at some point the developer of Rocket Player apparently
-added a timebomb to his app, which appears at a certain point in time after the build date of the
-app and puts up an unskippable dialog directing you to the Play Store to update the app.
+For unfathomable and annoying reasons, at some point the developer of the Rocket Player music player
+app apparently added a timebomb to his app, which appears at a certain point in time after the build
+date of the app and puts up an unskippable dialog directing you to the Play Store to update the app.
 
 Even more annoyingly, in 2022 he sold Rocket Player to some dubious firm that, if current Play Store
 reviews are anything to go by, has stopped honouring the old paid "Rocket Unlocker" and instead
